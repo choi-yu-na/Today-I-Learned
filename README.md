@@ -1,2 +1,1 @@
-# Study
-공부한거
+#Today I Learned
